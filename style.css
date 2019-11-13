@@ -1,0 +1,51 @@
+html, body {
+    background-color:cadetblue
+
+}
+
+.block-one h1{
+   font-family: 'Acme', sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    color: darkolivegreen;
+    font-size: 40px
+     
+    
+            
+
+}
+
+p1 {
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+
+}
+
+
+
+.block-two h2{
+    font-family: 'Neuton', serif;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px 
+    
+    
+}
+
+
+p2{
+     font-family: 'Literata', serif;
+    text-align: center;
+}
+.block-three h3{
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 40px 
+}
+
+
+p3 {
+    font-family: 'Play', sans-serif;
+    text-align: center;
+}
